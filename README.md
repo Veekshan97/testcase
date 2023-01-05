@@ -11,3 +11,5 @@ Prerequisites :
 
 Test execution video recording : https://www.transfernow.net/en/dltransfer?utm_source=202301054nR4malX 
 ( download or click on the eye icon to view recording )
+
+Note: The OrangeHRM site has been updated, hence the look and feel of the website is different from the screenshot attached in assignmnet.
